@@ -1,0 +1,34 @@
+16 ’ D E V S V
+
+et p ΞΕ , quae aeqnatio primi gradus differentialis
+vocatur, pluribus quidem casibus integratio succedit3
+sin autem ea relatio insuper quantitatem q inuoluat,
+aequatio vocatur differentialis secundi gradus, dupli·
+cique integratione opus est, antequam ad desideratam
+relationem inter x et y , vnde ratio istius functio-
+nis y innotescat , perueniatur. Hic multo pauciores
+sunt casus, quibus ad scopum pertingere licet3 fi-
+mulque patet ‚ quid de aequationibus differentialibus
+tertii altiorumque ordinum fit iudicandum.
+
+14. Verum circa has integrationes, quae fun- ’
+&ionibus vnius tantum variabilis inuestigandis inser-
+viunt, fingularis quaedam affectio, qua istius metho-
+di praecipua indoles continetur, probe est obieruanda.
+Affectio autem ista in hoc consistit ‚ quod aequatio
+integrata semper nouam quan-dam constantem quan-
+titatem recipiat⁷ cuius in aequatione differentiali ne
+vestigium apparet ‚ hancque quantitatem constantem
+prorsus arbitrio nostro relinqui. Ita ss habeatur ista
+aequatio differentialis “J—2 z 2 a x÷ b, seu d y : 2 axdr4bdx,
+vbi quidem litterae a et b denotant quantitates con-
+stantes datas , aequatio integralis in omni extenfione
+ita se habet: yzaxx-issbx4 C, vbi C defignat quan-
+titate-m constantem a praecedentibus minime penden-
+tem, et cuius valor penitus arbitrio nostro relinqui-
+tur, neque integratio cuiusquam aequationis differen-
+tialis pro completa et perseeta est habenda ‚ nifi hu-
+iusmodi quantitas constans arbitraria fuerit intro-
+
+dueta.
+

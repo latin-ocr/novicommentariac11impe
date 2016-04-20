@@ -1,0 +1,41 @@
+TRIANGVLORVM. 75
+
+Problema 4.
+
+13. Si in triangulo ΑΒΕ angulus ΑΒΕ fue-
+vrit quintuplus anguli A, inter eius latera ΑΒΞι·,
+AC:b et ΒΕ :a relationem ista condinone detet-
+’ minatam inuestigare.
+
+‘Solutio
+
+‘Due’ta iterum ‘reeta Bc, angulum CBc ipfi A
+aequalem abscindente, ‘vt 'triangulum BC c toti ACB
+fimile fiat, triangulum vero A Β ι· ad casum praece-
+dentem fit referendum ‚ ‘pro quo fi ponamus latera
+ΑΒΞΎ , Ac: β et Βι· ,τ α, erit vti modo inue-
+mmus ι
+
+(3⁴-02(2 ⁰24 Ὺ) ββ-αΝΎ--ααΝα-ΐ-Ἧῖῑῡ
+
+At vero hic, vti ante ostendimus ‚ has substitutiones
+⁴fieri oportet: azae, βε bh - aa , et γε.- bc, vnde
+oritur haec aequatio ·:
+
+(bh - aa)‘'- acc (2 a -†- b) (hh-aa)’-ac⁴(hb saa) (cz-bb) :- 0
+>quae diuisa per (hb -aa) (ὸ-ὶ-α) induit hanc formam:
+
+(hb - aa)²(b-a)-acc(2a ÷h)(b —a) —ac⁴:.:o
+et fheta euolutione prodit
+
+h⁵-a h⁴- 2 aab⁸-a (cc-naa) hb -aa (σε-αα) b-a(cc-aa)': 0.
+
+Problema 5.
+
+4 , 14. Si in triangulo ΑΒΕ angulus ΑΒΕ fue-
+rit sextuplus anguli Α, inter eius latera AB: c,
+AC: b et Beza relationem ista conditione deter-
+
+.minatam inuestigare.
+K 2 Solutio.
+

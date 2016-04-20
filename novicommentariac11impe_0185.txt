@@ -1,0 +1,53 @@
+OBSERVATIONES ANALYTICAE. 12 5
+
+qui numeri, quanam lege progrediantur , haud im·
+merito indagari videtur ‚ vt non solum iude termi-
+nus generalis seu coefficiens dignitati indefinitae π’*
+conueniens innotescat ‚ sed etiam infignes huius se-
+riei proprietates explorentur. Hunc in finem se-
+quentia problemata proponam ‚ quorum resolutio
+deinceps ad alias speculationes non parum curiosas
+manuducet.
+
+Probstnna 1.
+
+1. Euoluta hac potestate indefinita(r÷x†xx)'⁸
+coefficientem termini medii seu dignitatis κη de-
+finire.
+
+Solutio.
+
+Potestas proposita ita sub forma binomii re-
+praesentetur (x(t÷x)-}-1)’¹‚ quae more soli-to euo-
+luta praebet:
+
+x²¹(1 -l- x)'¹ 4- ’ἕ x”-¹ (1 ·—1- x)⁷²”‘¹ -l- ”f'f‘ss'xn‘ff 1 *l- &Qu-²
+
+r ⁷2(⁷¹—-¹)(²1·-2)
+
+·÷· ι. 2. ³‘x⁷‘’'(1-÷-x)⁷²-³etc·
+
+ex cuius singulis membris ‚ fi vlterius euoluantur ,
+terminos formae κ’* elici oportet. Ac pri-
+mum quidem membrum praebet x⁷¹‚ cum reliquae
+potestates omnes ipslus x ex eius euolutione ortae
+
+ 
+
+ 
+
+ 
+
+futurae fint altiores. Ex secundo autem membro
+pro hac dignitate x²² oritur:
+
+’'T'' ‚rr-“21³ κ’·
+
+Qs ex
+
+ 
+
+ 
+
+’ἐπ”-ἃ
+

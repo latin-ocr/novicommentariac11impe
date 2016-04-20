@@ -1,0 +1,37 @@
+-μ PROPRIETATES
+Coroll. 2.
+
+7. Ad hanc'proprietatem geometrice enuncian-
+dam centro C radio Cssza describatur circulus,
+
+latus AC productum secans in D et E , latus vero
+AB in F. Iam cun} fit ΛΒΤ-Σὺ -ι- α, et ΑΕῑ--ὸ-α,
+
+erit A D. A E² ετ Β C. A 13². Ex elementis vero est
+AEADzAF. AB ‚ vnde fit AE.AF:·:BC.AB ,
+ideoque A E: C E z A B : A F , quam proportionem
+geometrice deumnstrari oportet.
+
+Coroll. ⁴3,
+
+8. In eadem figura curn fit angulus CFB
+:ABG :z 3 A ‚ erit :angulus A C F: 2 A , et
+BCDzABC÷Az4A‚ vnde nrcus BD est du-
+plus arcus EF. Duce-aergo reeca BE, erit ang.EBF
+:gECF:A, ideoque BEzAE. Simili modo
+ducta resta DF ‚ ‘angulus ADF quoque aequatur
+¹ angulo A , ex quo fit DFzAF.
+
+Coroll. 4.
+
+9. Hinc analogia ante inuenta AE:CE:AB:AF
+abit in istam BE:CE:AB:DF::DF·-†—BF:DF
+seu BE.DF:CE.AB:]3C(BF÷DF). Quae
+proprietas geometrice ita ostenditur: Sumto arcu
+
+‘EGzEF ‚ dustisque AG et BG, erit AG-z-AF
+' et BG21DF‚ ob arcum FG:BD , ideoque BFG
+:BDF et AG::BG, ob AFzDF. Nunc vero
+ambo triangula isostelia ΑΘΒ et BCE sunt firni-
+lia‚ quia ang.CEB:2A:-.BAG; vnde sequitur:
+

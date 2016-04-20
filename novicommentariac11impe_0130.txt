@@ -1,0 +1,37 @@
+70 PROPRIETATES.
+
+Scholion.
+
+4. Haec inuersa propositio , etsi eius‘ veritas
+ex praecedente neceffario sequitur, tamen non ita fa-
+cile geometrice demonstratur, Si scilicet fuerit
+AC²;:AB.BC—x-BC?‚ ostendendum est, fore angu-
+lum A semissem anguli AB C. Hunc in finem de*
+miffo ex C in AB perpendiculo C P , ex elementis
+consta-t ‚ effe Ac²zAB²÷BC²—2AB.BP; curn>
+igitur sit AC²zAB.BC·†-BC²‚ erit BC² vtrinque
+auferendo AB²— 2AB.BP:A ΗΒΕ, et per AB di-
+videndo AB—2BP2BC. Capiatur PQ:.BP , vt
+fit CQ:BC ,eritque qussc seu AQ3CQ,
+vnde angulus BQC , cui aequalis est ΑΒΕ , duplus
+est anguli A , quae est demonstratio propositionis 1¹¹1
+versae.
+
+Problema 2.
+
+'rab 1 5 Si in triangulo ABC angulus ΑΒΕ fue-³
+fig 3 rit triplus anguli A, relationem, quae hinc in la-
+ἓῖῑὲιηῖἔὲειηὲιύὶ redundat, AB-c, AC: h et BC-za
+
+‘Solutio.
+
+Ex angulo B reeca Bc ita ducatur, vt angu-⁴
+lus CBc aequalis fit angulo A, ideoque angulus
+Assc eius duplus , ficque triangulum ABc ad ‘ca-
+sum praecedentis problematis pertineat. At trians
+gulum BCc simile est triangulo ACB, vnde fit
+
+AC: BC: AB: Beer-BC· Cc
+h* a Ξ c* “fc ...- αἱ Ta·
+Ergo
+
