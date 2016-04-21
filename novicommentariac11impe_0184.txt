@@ -1,0 +1,31 @@
+124 »ev-53 ) 0 c 2:03<-
+OBSERVATIONES
+A N A L Y T I C A E.
+
+Auctore
+
+L. EVLERO.
+
+Confideranti potestates , quae ex eleuatione huius
+formae trinomiae 1÷·x—}--xx nascuntur ‚ ter-
+mini medii maximis coefficientibus numericis de·
+prehenduntur affecti ‚ quorum ordo progreffionis
+cum non parum fit reconditus, omni attentione
+dignus videtur3 praecipue quoniam huiusmodi spe-
+culationes plerumque fruc‘tum haud spernendum in
+Analyfi afferre solent. Primum ergo harum pote-
+statum simpliciores conspe-§tui exponam:
+
+Ex ponens Potestates
+potestatis euolutae
+
+. . 1÷2x÷3x²÷2x³÷x‘
+. . 1÷3x÷6x²÷7x³÷6x⁴÷3x⁵÷ff
+, 1÷4x÷1 οὒτ’-1- 1 6x³÷19x⁴÷ 1 6 x⁵÷ 10x‘44x'÷x⁸
+1÷5x÷15x²÷30x³÷45x⁴÷51x⁵÷4sx⁶÷30x⁷÷1sx'÷sx⁹÷x'⁰
+etc,
+hinc fi termini medii ex singulis potestatibus ordine
+tepraesententur , haec exoritur progreffio:
+ι, lx, 3³5², 7x¹‚ 192⁵, 51x⁵, 141x‘ etc.
+qui
+

@@ -1,0 +1,40 @@
+FvNcTIONVM, ις
+
+elementiS calculi different³alis saepe plures quantitates
+variab³1es occurrunt ‚ et praecepta ad eas partes, quas
+consttuo sequenteS, referenda videantur ‚ tamen iem-
+per in eas certus quidam nexus admittitur, vt tan·
+dem omnes tanquam fuiicftiones vnius variabilis spe·
+&ari queant. Interim tamen regulae differentiandi
+sequentium partium a prima non discrepant.
+
+13. calculum autem integralem in genere ita
+definio,vt sit methodus inueniendi indolem functio-
+num ex data quacunque differentialium relatione;
+quam definitionem pro casu funetionum vnicae va-
+
+riabilis ante clarius euoluam, quam ad functiones
+
+plurium variabilium sum progressurus. Pofito scili-
+
+cet pro functione vnius variabilis 2¹1—ss z p ‚ 27¹} :z q ‚
+
+27¹} Σ r etc, Si aequatio proponatur quaecunque, in
+
+quam, praeter quantitates x et y, etiam istae p‚q,retc.
+ex differentialibus ortae, ingrediantur, in hoc offi-
+
+cium calculi integralis versatur ‚ vt ex ista aequa-
+tione seu relatione differentialium data natura fun-
+ffion's y, quemadmodum scilicet per x determinatur,
+elic2atur3quae operatio vocari solet integratio. Pluri'-
+mum autem abest, quo minus haec methodus ad-
+huc satis fit elaborata , et si omnes quaestiones in
+eam cadentes perpendamus , pauciffimas eius ope re-
+soluere licet3 variis autem ea ‚ quatenus est excul-
+ta , continetur praeceptis pro ordine differentialium‚
+quae in relationem datam ingrediuntur. Ita fi pro-
+ponatur telatio quaecunque inter quantitates x ‚ y
+
+et
+

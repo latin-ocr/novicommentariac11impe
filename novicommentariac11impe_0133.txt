@@ -1,0 +1,37 @@
+TRIANGVLORVM. 713
+
+AsszAGzssE1CE, seu ΑΒ : AFzAE ε BC, vel
+BC. AsszAE. AF ‚ quae est proprietas supra eruta.
+
+Scholion.
+
+ιο. Inuenta ergo proprietas concinnius hoc
+modo geometrice demonstrabitur:
+
+Centro C radioque CB descripto circulo latus AC
+in D et E, latus vero AB in F secante ‚ duciis-
+que BE et CF, ob angulum CFsszcssFng,
+erit angulus CEB:2A:CBE , et quia angulus
+ABE:A‚ erit BEzAE. Tum sumto arcu
+EGzEF ‚ duffisque AG et BG, erit vtique
+AG:AF‚et tam BAG22A‚quam ABGz2A,
+ideoque BGzAGzAF. Simile ergo etit trian-
+guium AGB triangulo BEC, vnde fit AB2AG
+:BE:BC,et quia AG:AF‚ et ΒΕΖ-ΑΕ, erit
+A B ε Α F z A E ε Β C. Ex elem'entis vero est
+AF:AE:AD:AB‚ vnde fit componendo
+
+AB : AE:AE.AD:BC.AB, {eu AE⁸.AD:BC.AB⁸
+quae aequatio dat (AC-BC)²(AC-i--BC):BC.AB¹,
+quae est proprietas supra inuenta ‚ et nunc geome-
+trice demonstrata.
+
+Problema 3.
+
+11. Si in triangulo ΑΒΕ angulus ABC fue· Τὼ, χ,
+rit quadruplus anguli A, inter eius latera Asszc, Fig. 4-
+AC :b et BC:a ‚ relationem illa conditione de-
+
+term⁷natam inuestigare.
+Tom. XI. Nou. Comm. K Solutio.
+

@@ -1,0 +1,40 @@
+NOVI ALGORITHMI. 53
+
+numeros x et y capi possent, quorum numerus cum
+sit par , hoc modo idonei numeri pro p et q ob-
+tinerentur. Verum casu inuento, quo fit xx:zyy- 1,
+multo facilius inde numeri p et q reperiri possunt,
+vt fit: ppzzqq÷ 1. Sumatur enim pz2xx÷1
+et qzzaxy , eritque pp—zqqz4x*-}-4xx-†-x
+-4zxxyy:1÷4xx(xx-zyy÷1),at xx-zyy41:0‚
+ideoque pp-zqqz1 seu pp-:zqq-ki , quemad-
+modum problema Pellianum postulat. Videamus igi-
+tur, quomodo pro quouis numero z ex indicibus in-
+de natis numeri p et q sint definiendi, vt fiat
+ppzzzqq÷ 1, vbi quidem casus secundum periodos
+percurramus,
+
+Ι. CasuS‚ quo pro numero z indices sunt
+v, ευ, ρυ, etc.
+
+29· Hic singulae periodi vnicum indicem con·
+tinent, sumto ergo a:(v) et yzx ‚ertxx:zyy-1.
+Quamobrem ‚ vt fiat ppzzqq—1- 1, capiatur:
+
+pz2xx-—1— 1 :2vv-Jf- 1 et qz2xyz2v.
+
+Hic casus ‚ vt supra vidimus ‚ locum habet ‚ fi fit
+zzvv÷1 , seu quo numerus z vnitate superat
+quadratum; tum igitur capi debet pzavv÷1
+stu pz2z-1 et q22v‚ quo pacsto problemati
+Pelliano satisfit ‚ vt fit sz(zqq-{-1). Ita fi fit
+
+εει erit pza et qza ficquesz( zqq41) ⁷
+fi z: 5 eritp:9 et qz4 ficquesz( sqq-fx)
+si z: 10 eritpa: 19 et q.·::6 ficquesz(1oqq-{-1)
+fi 2:17 eritp: 33 et q: 8 ficquesz(17qq4-1)
+
+etc.
+
+G 3 11.
+

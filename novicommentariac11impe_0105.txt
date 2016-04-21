@@ -1,0 +1,39 @@
+NOVI ALGORITHMI. 45
+
+Numeri Indices.
+surdi.
+V115 10‚1‚2‚1,1‚1,1‚1‚2,1‚20etc.
+t :5611 9¹09 116 ις
+V116 10‚1‚3‚2‚1‚4‚1‚2‚3‚1,2oetc.
+¹¹⁶57¹841375¹⁶¹
+V117 10‚1‚4‚2‚4‚1,20 etc.
+Χ 17 4 9 4 17 1
+V118 10,1‚6,3‚2‚10,2,3,6‚1‚20 etc.
+¹¹⁸3⁶929⁶3¹⁸⁸
+'V119 10‚1‚9‚1,20etc.
+ι 19 2 ¹9 ι
+V120 10‚1‚20‚1‚20etc.
+
+1 20 1
+
+ 
+
+16. In omnibus his indicum seriebus periodi
+deprehenduntur modo stri-stiores modo largiores, quae
+indicibus iis ‚ qui primo duplo sunt maiores, inclu-
+duntur , atque hae periodi eo clarius in oculos in-
+cidunt, fi primi indices cuiusque seriei duplicantur.
+Deinde in qualibet periodo idem indicum ordo, fiue
+antrorsum ‚ siue retrorsum ‚ obseruatur: ex quo in
+qualibet periodo vel vnus datur index medius , vel
+duo, prout terminorum numerus fuerit par 'vel
+impar. In litteris vero etiam graecis ssmiles pe-
+riodi obseruantur ‚ vbi imprimis animaduertendum,
+pro omnibus indicibus 2 ‘v litteram graecam in vni-
+tatem abire. Hanc proprietatem insignem, quae in
+ipfis operationibus facilius perspicitur , quam ver-
+borum ambage demonstratur , probe notasse in se-
+quentibus plurimum intererit.
+
+F 3 17‘
+
